@@ -1,3 +1,5 @@
+//Trying to do a script with TDD Method
+
 function test(string) {
     let conwayTrad = "";
     let count = 1;
